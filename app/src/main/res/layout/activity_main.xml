@@ -168,6 +168,12 @@
             android:layout_height="wrap_content"
             android:text="26. " />
 
+        <TextView
+            style="@style/StudentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="27.Sergey Kulyk" />
+
     </LinearLayout>
 
 </ScrollView>
