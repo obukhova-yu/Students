@@ -124,7 +124,7 @@
             style="@style/StudentName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="19. Бакалов Артем" />
+            android:text="19.Бакалов Артем" />
 
         <TextView
             style="@style/StudentName"
