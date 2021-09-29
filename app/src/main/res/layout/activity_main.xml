@@ -22,7 +22,7 @@
             style="@style/StudentName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="2. " />
+            android:text="2. Danilov Dima" />
 
         <TextView
             style="@style/StudentName"
