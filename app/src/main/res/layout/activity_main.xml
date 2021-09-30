@@ -28,7 +28,7 @@
             style="@style/StudentName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="3.Yuliia Obukhova " />
+            android:text="3.Obukhova Yuliia" />
 
         <TextView
             style="@style/StudentName"
